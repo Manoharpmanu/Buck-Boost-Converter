@@ -1,0 +1,16 @@
+# Buck-Boost Converter
+
+This project focuses on the design and analysis of a DC-DC Buck-Boost Converter used for both step-up and step-down voltage conversion.
+
+## Key Concepts:
+- Voltage step-up and step-down operation
+- Switching using MOSFET
+- Output voltage polarity and regulation
+
+## Tools Used:
+- Basic calculations
+- MATLAB/Simulink (if used)
+
+## Applications:
+- Electric vehicle power systems
+- Battery voltage regulation
